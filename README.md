@@ -1,3 +1,11 @@
+### Read my Blogs for more details :
+[Mixture of Experts in Focus: Analyzing Popular Architectures](https://www.notion.so/Mixture-of-Experts-in-Focus-Analyzing-Popular-Architectures-1523c6068e4d80a2b739d78487115450)
+
+[Unleashing Efficiency with OLMoE: The Small Yet Powerful MOE Model](https://www.notion.so/Unleashing-Efficiency-with-OLMoE-The-Small-Yet-Powerful-MOE-Model-14e3c6068e4d80ed8321c313aa92992d)
+
+[Harnessing the Power of IBM Granite 3: A Deep Dive into MoE Technology](https://www.notion.so/Harnessing-the-Power-of-IBM-Granite-3-A-Deep-Dive-into-MoE-Technology-15b3c6068e4d801a8d2af4e98a4bb891)
+
+### What are Mixture of Expert Models?
 Deep learning models today are built on artificial neural networks, which consist of layers of interconnected units known as "neurons" or nodes. Each neuron processes incoming data, performs a basic mathematical operation (an activation function), and passes the result to the next layer. More sophisticated models, such as transformers, incorporate advanced mechanisms like self-attention, enabling them to identify intricate patterns within data.
 
 On the other hand, traditional **dense models**, which process every part of the network for each input, can be computationally expensive. To address this, **Mixture of Experts (MoE) models** introduce a more efficient approach by utilizing a ***sparse architecture***, activating only the most relevant sections of the network—referred to as "experts"—for each individual input. This strategy allows MoE models to perform complex tasks, such as natural language processing, while consuming significantly less computational power.
