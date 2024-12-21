@@ -14,6 +14,7 @@ A Mixture of Experts (MoE) model consists of two key components: Experts, which 
 
 
 ![image](https://github.com/user-attachments/assets/6dcfa4b9-af61-4096-8a18-d6d015eea6dc)
+
 MOE model consisting of several experts to handle diverse set of tasks
 
 
